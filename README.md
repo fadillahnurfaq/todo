@@ -1,16 +1,19 @@
-# todo_app
+# TODO LIST
 
-A new Flutter project.
+Aplikasi todo list menggunakan state management valuenotifier
 
-## Getting Started
+## Detail Aplikasi
 
-This project is a starting point for a Flutter application.
+![detail 1](ss/f1.png)
 
-A few resources to get you started if this is your first Flutter project:
+![detail 2](ss/f2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies
+This app uses the following dependencies:
+- flutter_launcher_icons: ^0.12.0
+- image_picker: ^0.8.7
+- cupertino_icons: ^1.0.2
+- intl: ^0.17.0
+- photo_view: ^0.14.0
+- sqflite: ^2.2.5
+- uuid: ^3.0.7
